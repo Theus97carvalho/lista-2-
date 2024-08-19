@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\bin\Debug\8 triangulo A B C - logica.exe.config
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\bin\Debug\8 triangulo A B C - logica.exe
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\bin\Debug\8 triangulo A B C - logica.pdb
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\obj\Debug\8 triangulo A B C - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\obj\Debug\8 triangulo A B C - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\obj\Debug\8 triangulo A B C - logica.exe
+C:\Users\Leda\source\repos\8 triangulo A B C - logica\8 triangulo A B C - logica\obj\Debug\8 triangulo A B C - logica.pdb

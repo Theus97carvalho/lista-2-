@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\bin\Debug\6 IMC - logica.exe.config
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\bin\Debug\6 IMC - logica.exe
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\bin\Debug\6 IMC - logica.pdb
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\obj\Debug\6 IMC - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\obj\Debug\6 IMC - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\obj\Debug\6 IMC - logica.exe
+C:\Users\Leda\source\repos\6 IMC - logica\6 IMC - logica\obj\Debug\6 IMC - logica.pdb

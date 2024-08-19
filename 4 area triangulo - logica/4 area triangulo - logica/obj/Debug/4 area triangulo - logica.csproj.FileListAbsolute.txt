@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\bin\Debug\4 area triangulo - logica.exe.config
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\bin\Debug\4 area triangulo - logica.exe
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\bin\Debug\4 area triangulo - logica.pdb
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\obj\Debug\4 area triangulo - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\obj\Debug\4 area triangulo - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\obj\Debug\4 area triangulo - logica.exe
+C:\Users\Leda\source\repos\4 area triangulo - logica\4 area triangulo - logica\obj\Debug\4 area triangulo - logica.pdb

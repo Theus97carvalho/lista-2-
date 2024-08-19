@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\obj\Debug\1 valores distintos - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\obj\Debug\1 valores distintos - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\bin\Debug\1 valores distintos - logica.exe.config
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\bin\Debug\1 valores distintos - logica.exe
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\bin\Debug\1 valores distintos - logica.pdb
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\obj\Debug\1 valores distintos - logica.exe
+C:\Users\Leda\source\repos\1 valores distintos - logica\1 valores distintos - logica\obj\Debug\1 valores distintos - logica.pdb

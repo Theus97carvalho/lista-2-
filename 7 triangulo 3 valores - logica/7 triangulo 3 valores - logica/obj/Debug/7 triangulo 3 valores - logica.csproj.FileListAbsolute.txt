@@ -1,0 +1,2 @@
+C:\Users\Leda\source\repos\7 triangulo 3 valores - logica\7 triangulo 3 valores - logica\obj\Debug\7 triangulo 3 valores - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\7 triangulo 3 valores - logica\7 triangulo 3 valores - logica\obj\Debug\7 triangulo 3 valores - logica.csproj.CoreCompileInputs.cache

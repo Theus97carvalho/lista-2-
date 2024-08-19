@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\obj\Debug\2 numero maior ou identico - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\obj\Debug\2 numero maior ou identico - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\bin\Debug\2 numero maior ou identico - logica.exe.config
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\bin\Debug\2 numero maior ou identico - logica.exe
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\bin\Debug\2 numero maior ou identico - logica.pdb
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\obj\Debug\2 numero maior ou identico - logica.exe
+C:\Users\Leda\source\repos\2 numero maior ou identico - logica\2 numero maior ou identico - logica\obj\Debug\2 numero maior ou identico - logica.pdb

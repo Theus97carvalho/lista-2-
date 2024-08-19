@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\obj\Debug\3 três valores - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\obj\Debug\3 três valores - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\bin\Debug\3 três valores - logica.exe.config
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\bin\Debug\3 três valores - logica.exe
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\bin\Debug\3 três valores - logica.pdb
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\obj\Debug\3 três valores - logica.exe
+C:\Users\Leda\source\repos\3 três valores - logica\3 três valores - logica\obj\Debug\3 três valores - logica.pdb

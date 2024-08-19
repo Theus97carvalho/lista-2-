@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\bin\Debug\10 escola semestre aprovado reprovado - logica.exe.config
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\bin\Debug\10 escola semestre aprovado reprovado - logica.exe
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\bin\Debug\10 escola semestre aprovado reprovado - logica.pdb
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\obj\Debug\10 escola semestre aprovado reprovado - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\obj\Debug\10 escola semestre aprovado reprovado - logica.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\obj\Debug\10 escola semestre aprovado reprovado - logica.exe
+C:\Users\Leda\source\repos\10 escola semestre aprovado reprovado - logica\10 escola semestre aprovado reprovado - logica\obj\Debug\10 escola semestre aprovado reprovado - logica.pdb

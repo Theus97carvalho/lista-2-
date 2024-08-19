@@ -1,0 +1,2 @@
+C:\Users\Leda\source\repos\11 nota necessaria - logica\11 nota necessaria - logica\obj\Debug\11 nota necessaria - logica.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\11 nota necessaria - logica\11 nota necessaria - logica\obj\Debug\11 nota necessaria - logica.csproj.CoreCompileInputs.cache
